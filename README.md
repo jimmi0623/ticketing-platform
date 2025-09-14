@@ -3,7 +3,7 @@
 #@contact me: <jimmironno@gmail.com> <ronojames@proton.me>
  **********I am only publishing it as "PUBLIC", for Client/Hirer Demo purpose**********
 
-⚠️ **PROPRIETARY SOFTWARE - CONFIDENTIAL AND RESTRICTED** ⚠️
+
 
 A full-stack, scalable ticketing and event management platform built with Node.js, React, and modern technologies. This platform supports horizontal scaling, handles concurrent ticket purchases safely, and provides comprehensive analytics.
 
@@ -31,8 +31,8 @@ A full-stack, scalable ticketing and event management platform built with Node.j
 - **General Support**: Jimmironno@gmail.com
 
 ### 🚫 Contributing:
-This is proprietary software. **No external contributions are accepted.** 
-All development is handled internally by authorized james rono.
+This is proprietary software.  
+For Collaboration or contribution reach out to me james rono.
 
 ---
 
