@@ -21,10 +21,9 @@ A full-stack, scalable ticketing and event management platform built with Node.j
 - See [LICENSE](LICENSE) and [COPYRIGHT](COPYRIGHT) for complete terms
 
 ### 🔒 Repository Access:
-- This is a **PRIVATE REPOSITORY**
-- Access is restricted to authorized personnel only
+
 - Viewing this code does not grant any rights or permissions
-- All code and algorithms are confidential trade secrets
+- All code and algorithms are copyrighted.
 
 ### 📞 Contact:
 - **Licensing Inquiries**: Jimmironno@gmail.com
@@ -33,7 +32,7 @@ A full-stack, scalable ticketing and event management platform built with Node.j
 
 ### 🚫 Contributing:
 This is proprietary software. **No external contributions are accepted.** 
-All development is handled internally by authorized team members.
+All development is handled internally by authorized james rono.
 
 ---
 
