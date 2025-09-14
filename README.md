@@ -1,6 +1,7 @@
 # 🎫 Ticketing & Event Management Platform
 #@Author: James Rono aka jimmi 
 #@contact me: <jimmironno@gmail.com> <ronojames@proton.me>
+ **********I am only publishing it as "PUBLIC", for Client/Hirer Demo purpose**********
 
 ⚠️ **PROPRIETARY SOFTWARE - CONFIDENTIAL AND RESTRICTED** ⚠️
 
@@ -10,7 +11,7 @@ A full-stack, scalable ticketing and event management platform built with Node.j
 
 **🚨 PROPRIETARY SOFTWARE - ALL RIGHTS RESERVED**
 
-© 2024-2025 [Your Name/Company]. This software is proprietary and confidential.
+© 2024-2025 James Rono. All Rights reseved. This software is proprietary.
 
 ### ⛔ Important Legal Notice:
 - This software is protected by copyright and intellectual property laws
@@ -26,9 +27,9 @@ A full-stack, scalable ticketing and event management platform built with Node.j
 - All code and algorithms are confidential trade secrets
 
 ### 📞 Contact:
-- **Licensing Inquiries**: [your-email@domain.com]
-- **Legal Matters**: [legal@domain.com]
-- **General Support**: [support@domain.com]
+- **Licensing Inquiries**: Jimmironno@gmail.com
+- **Legal Matters**: Jimmironno@gmail.com
+- **General Support**: Jimmironno@gmail.com
 
 ### 🚫 Contributing:
 This is proprietary software. **No external contributions are accepted.** 
@@ -415,4 +416,4 @@ See [SECURITY.md](SECURITY.md) for our comprehensive security policy, including:
 
 This software contains proprietary and confidential information. Any unauthorized access, use, or disclosure is strictly prohibited and may result in legal action.
 
-**© 2024-2025 [Your Name/Company]. All Rights Reserved.**
+**© 2024-2025 James Rono. All Rights Reserved.**
