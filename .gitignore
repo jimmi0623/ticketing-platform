@@ -1,0 +1,314 @@
+# ===============================================
+# SECURITY & SENSITIVE FILES - NEVER COMMIT
+# ===============================================
+
+# Environment variables and secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env
+!.env.example
+
+# API Keys and secrets
+**/secrets/
+**/keys/
+*.pem
+*.key
+*.crt
+*.p12
+*.jks
+config/secrets.js
+config/keys.js
+
+# Database credentials and connection strings
+database.url
+db.config
+*.db-journal
+
+# Payment processing secrets
+stripe-config.json
+payment-secrets.js
+
+# JWT secrets and tokens
+jwt-secret.txt
+*.jwt
+auth-tokens/
+
+# SSL certificates and private keys
+ssl/
+certificates/
+*.cert
+
+# ===============================================
+# NODE.JS & NPM
+# ===============================================
+
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+*.lcov
+
+# nyc test coverage
+.nyc_output
+
+# Grunt intermediate storage
+.grunt
+
+# Bower dependency directory
+bower_components
+
+# node-waf configuration
+.lock-wscript
+
+# Compiled binary addons
+build/Release
+
+# Dependency directories
+jspm_packages/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Microbundle cache
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# parcel-bundler cache
+.cache
+.parcel-cache
+
+# Next.js build output
+.next
+
+# Nuxt.js build / generate output
+.nuxt
+dist
+
+# Gatsby files
+.cache/
+public
+
+# Storybook build outputs
+.out
+.storybook-out
+
+# ===============================================
+# DATABASE & LOGS
+# ===============================================
+
+# Database files
+*.sqlite
+*.sqlite3
+*.db
+database/
+data/
+dumps/
+backups/
+
+# Log files
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+*.log.*
+crash.log
+error.log
+combined.log
+
+# Runtime logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ===============================================
+# DEVELOPMENT & TESTING
+# ===============================================
+
+# Testing
+test-results/
+coverage/
+.nyc_output/
+*.lcov
+
+# IDE and editor files
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.swp
+*.swo
+*~
+.idea/
+*.sublime-*
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ===============================================
+# DOCKER & DEPLOYMENT
+# ===============================================
+
+# Docker
+docker-compose.override.yml
+.dockerignore
+
+# Deployment scripts with credentials
+deploy-prod.sh
+deploy-staging.sh
+**/deploy/*.env
+
+# ===============================================
+# TEMPORARY & CACHE FILES
+# ===============================================
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+.temp/
+
+# Cache directories
+.cache/
+*.cache/
+.sass-cache/
+
+# Build artifacts
+build/
+dist/
+out/
+
+# ===============================================
+# FRONTEND SPECIFIC
+# ===============================================
+
+# React build output
+frontend/build/
+frontend/dist/
+frontend/.env.local
+
+# Static files that might contain sensitive data
+uploads/
+public/uploads/
+assets/uploads/
+
+# ===============================================
+# MONITORING & ANALYTICS
+# ===============================================
+
+# Monitoring data
+monitoring/
+metrics/
+*.metrics
+newrelic.js
+
+# Performance logs
+performance.log
+benchmark-results/
+
+# ===============================================
+# BACKUP & ARCHIVE FILES
+# ===============================================
+
+# Backup files
+*.backup
+*.bak
+*.old
+*_backup
+*_old
+
+# Archive files (might contain sensitive data)
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# ===============================================
+# CUSTOM APPLICATION FILES
+# ===============================================
+
+# User uploaded content
+user-uploads/
+ticket-images/
+event-photos/
+
+# Generated QR codes (might contain sensitive info)
+qr-codes/
+generated-tickets/
+
+# Email templates with sensitive data
+email-templates/production/
+
+# Reports and analytics exports
+reports/
+exports/
+analytics-data/
+
+# Custom configuration files
+local-config.js
+personal-settings.json
+
+# ===============================================
+# VERSION CONTROL
+# ===============================================
+
+# Git specific
+.git/
+*.orig
+*.rej
+
+# SVN
+.svn/
+
+# ===============================================
+# DOCUMENTATION BUILDS
+# ===============================================
+
+# Generated documentation that might expose internals
+docs/build/
+api-docs/build/
+documentation/generated/

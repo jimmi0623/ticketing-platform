@@ -1,0 +1,55 @@
+# CODEOWNERS - Proprietary Repository Access Control
+# 
+# This file defines who is responsible for code in this repository.
+# All reviewers must be authorized to access proprietary code.
+#
+# ⚠️  CONFIDENTIAL REPOSITORY - AUTHORIZED PERSONNEL ONLY ⚠️
+
+# Global ownership - All files require approval from repository owner
+* @jimmi0623
+
+# Critical security and configuration files
+/.env.example @jimmi0623
+/.gitignore @jimmi0623
+/LICENSE @jimmi0623
+/COPYRIGHT @jimmi0623
+/SECURITY.md @jimmi0623
+
+# Core configuration files
+/config/ @jimmi0623 @jimmi0623
+/middleware/security.js @jimmi0623 @jimmi0623
+/middleware/enhancedValidation.js @jimmi0623 @jimmi0623
+
+# API and service files
+/services/ @jimmi0623 @jimmi0623
+/routes/ @jimmi0623 @jimmi0623
+/middleware/ @jimmi0623 @jimmi0623
+
+# Database and infrastructure
+/init.sql @jimmi0623 @jimmi0623
+/docker-compose*.yml @jimmi0623 @jimmi0623
+/Dockerfile @jimmi0623 @jimmi0623
+/nginx/ @jimmi0623 @jimmi0623
+
+# CI/CD and deployment
+/.github/ @jimmi0623 @jimmi0623
+/cluster.js @jimmi0623 @jimmi0623
+
+# Documentation (must be reviewed for confidentiality)
+/docs/ @jimmi0623 @jimmi0623
+/README.md @jimmi0623
+/GITHUB_SETUP_GUIDE.md @jimmi0623
+
+# Frontend code
+/frontend/ @jimmi0623 
+
+# Testing files
+/tests/ @jimmi0623 
+
+# Package management
+/package.json @jimmi0623 @jimmi0623
+/package-lock.json @jimmi0623 @jimmi0623
+
+# Git hooks and quality control
+/.pre-commit-config.yaml @jimmi0623 
+
