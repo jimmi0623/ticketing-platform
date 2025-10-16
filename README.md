@@ -22,7 +22,7 @@ A full-stack, scalable ticketing and event management platform built with Node.j
 
 ### 🔒 Repository Access:
 
-- Viewing this code does not grant any rights or permissions
+- Viewing this code DOES NOT grant any rights or permissions
 - All code and algorithms are copyrighted.
 
 ### 📞 Contact:
