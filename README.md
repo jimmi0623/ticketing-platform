@@ -8,9 +8,6 @@
 A full-stack, scalable ticketing and event management platform built with Node.js, React, and modern technologies. This platform supports horizontal scaling, handles concurrent ticket purchases safely, and provides comprehensive analytics.
 
 ## ⚖️ License & Copyright
-
-**🚨 PROPRIETARY SOFTWARE - ALL RIGHTS RESERVED**
-
 © 2024-2025 James Rono. All Rights reseved. This software is proprietary.
 
 ### ⛔ Important Legal Notice:
@@ -413,6 +410,6 @@ See [SECURITY.md](SECURITY.md) for our comprehensive security policy, including:
 
 ## 🔐 Confidentiality Notice
 
-This software contains proprietary and confidential information. Any unauthorized access, use, or disclosure is strictly prohibited and may result in legal action.
+This software contains proprietary and confidential information. Any unauthorized use, or disclosure is strictly prohibited and may result in legal action.
 
 **© 2024-2025 James Rono. All Rights Reserved.**
